@@ -36,4 +36,6 @@ uvicorn main:app --reload
 ```
 <img width="1440" height="814" alt="Home_screen" src="https://github.com/user-attachments/assets/cab2e8c8-12c0-45b1-8e4e-268ef4a8b0cf" />
 
+<img width="1440" height="808" alt="Register_login" src="https://github.com/user-attachments/assets/198f46bd-7bb5-4acb-8532-7b129a63ffb8" />
 
+<img width="1440" height="813" alt="Add_task" src="https://github.com/user-attachments/assets/c640f417-0d0e-4a89-910d-d70538d5688a" />
